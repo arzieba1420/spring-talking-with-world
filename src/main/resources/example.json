@@ -1,0 +1,11 @@
+
+//example json
+{
+  "imie" : "Adam",
+  "szkola" : {
+    "nazwa" : "SP nr 11",
+    "adres" : "Test"
+  },
+  "oceny" : [5,5,2]
+
+}
